@@ -1,6 +1,6 @@
 ### Jambo, I'm Nimrod 👋
 
-I am a frontend developer & Geoinformatics specialist based in Austria. I am currently on the tail end of completing my masters in Applied Geoinformatics from the University of Salzburg Austria. My expertise lies in utilizing HTML, CSS, JavaScript, React, Python, Postgresql, and Django to breath life to your ideas. I am always eager to learn and grow, and I thrive when working with a team of diverse individuals from around the world. I believe that collaboration is key to creating amazing products, and I am committed to constantly improving my skills and contributing to the development and GIS community.
+I am a frontend developer & Geoinformatics specialist based in Austria. I am currently on the tail end of completing my masters in Applied Geoinformatics from the University of Salzburg Austria. My expertise lies in utilizing HTML, CSS, JavaScript, React, Python, Postgresql, and Django to breath life to your ideas. I am always eager to learn and grow, and I thrive when working with a team of diverse individuals from around the world. I believe that collaboration is key to creating amazing products, and I am committed to constantly improving my skills and contributing to the web development and GIS community.
 
 
 

@@ -12,9 +12,9 @@ I am a frontend developer & Geoinformatics specialist based in Austria. I am cur
 
  ### 🔭 I’m currently working...
   
-  - [Penton](https://github.com/Nimrod2022/penton)
-  - [Georgy Portfolio](https://github.com/Nimrod2022/georgy)
-  - [Pyraus Group](https://github.com/Nimrod2022/Pyraus)
+  - [Penton - 5% ](https://github.com/Nimrod2022/penton)
+  - [Georgy Portfolio - 97%](https://github.com/Nimrod2022/georgy)
+  - [Pyraus Group - 50%](https://github.com/Nimrod2022/Pyraus)
 
 
 

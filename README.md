@@ -25,7 +25,7 @@ I am a frontend developer & Geoinformatics specialist based in Austria. I am cur
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimrod2022&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [kibetnimrod.com](kibetnimrod.com)
+- 👨‍💻 All of my projects are available at [kibetnimrod.com](https://kibetnimrod.com)
 
 
 ---

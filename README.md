@@ -12,7 +12,7 @@ I am a frontend developer & Geoinformatics specialist based in Austria. I am cur
 
  ### 🔭 I’m currently working...
 
-- [Yam Yarn - 85%](https://github.com/Nimrod2022/yam-yarn-recipe-app)
+
 - [Penton - 5% ](https://github.com/Nimrod2022/penton)
 - [Pyraus Group - 50%](https://github.com/Nimrod2022/Pyraus)
 

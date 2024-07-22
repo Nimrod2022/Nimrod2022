@@ -15,7 +15,7 @@ I am a frontend developer & Geoinformatics specialist based in Austria. I am cur
  ### 🔭 I’m currently working...
 
 
-- [Penton - 45% ](https://github.com/Nimrod2022/penton)
+- [Penton - 80% ](https://github.com/Nimrod2022/penton)
 
 
 
